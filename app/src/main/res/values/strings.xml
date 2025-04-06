@@ -1,0 +1,4 @@
+<!--This file is a resource file that configures and defines how strings should work in the app-->
+<resources>
+    <string name="app_name">Kodeco Chat</string>
+</resources>
