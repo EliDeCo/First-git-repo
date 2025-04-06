@@ -1,5 +1,6 @@
 //All copied from "CREATE A JETPACK COMPOSE APP"
 //The kotlin File houses the layout and main functionality of the app
+//Added this comment for the second commit
 package com.kodeco.chat
 
 import android.os.Bundle
